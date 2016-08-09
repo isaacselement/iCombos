@@ -9,4 +9,6 @@ Download the code from [cocos2d download site](http://www.cocos2d-x.org/download
 	cocos new iCombos -p com.suchachinoiserie.iCombos -l cpp -d ./
 
 
-Update cocos2d-x versin for project : just copy iCombos classes folder to new cocos2d-x project home . Now version is cocos2d-x-3.12 . 
+## Update cocos2d-x versin for project
+
+Just copy iCombos classes folder to new cocos2d-x project home . Now version is cocos2d-x-3.12 . 
